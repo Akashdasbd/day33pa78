@@ -97,7 +97,7 @@ img{
 	height: 100%;
 	position: absolute;
 	top: -186px;
-	left: 657px;
+	left: 946px;
 	background: url(./hero-image.jpg) no-repeat top center;
 	width: 800px;
 	height: 800px;
@@ -135,7 +135,7 @@ img{
 	background: #3763eb;
 }
 .service-item.card.p-5.my-se-it1 {
-	margin-top: -223px;
+	margin-top: -243px;
 
 }
 
@@ -480,8 +480,8 @@ transition: .5s;
 
 .auther-info {
 	position: absolute;
-	top: 165px;
-	left: 154px;
+	top: 195px;
+	left: 206px;
 	background: #3763eb;
 	width: 191px;
 	padding: 8px 8px;
